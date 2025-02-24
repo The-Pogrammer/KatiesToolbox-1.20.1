@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "katiestoolbox:block/puffer_front",
+    "side": "katiestoolbox:block/puffer_side",
+    "top": "katiestoolbox:block/puffer_top",
+    "bottom": "katiestoolbox:block/puffer_bottom"
+  }
+}
